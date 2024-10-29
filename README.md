@@ -20,4 +20,4 @@
 - Explore API Integration: Learn from the code to see how API requests are handled and displayed in the UI.
 
 ## 🌐 Live Demo
-🌟 Visit Country Finder ([Replace with the actual link if available](https://selenkarakaya.github.io/Country-Finder/))
+🌟 Visit Country Finder (https://selenkarakaya.github.io/Country-Finder/)
